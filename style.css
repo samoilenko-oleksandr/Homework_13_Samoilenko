@@ -21,22 +21,22 @@
 }
 
 .point-1 {
-  animation: pop 4.4s infinite ease-in-out;
+  animation: pop 4.4s infinite ease;
 }
 .point-2 {
-  animation: pop 4.4s infinite ease-in-out;
+  animation: pop 4.4s infinite ease;
   animation-delay: 0.3s;
 }
 .point-3 {
-  animation: pop 4.4s infinite ease-in-out;
+  animation: pop 4.4s infinite ease;
   animation-delay: 0.6s;
 }
 .point-4 {
-  animation: pop 4.4s infinite ease-in-out;
+  animation: pop 4.4s infinite ease;
   animation-delay: 0.9s;
 }
 .point-5 {
-  animation: pop 4.4s infinite ease-in-out;
+  animation: pop 4.4s infinite ease;
   animation-delay: 1.2s;
 }
 
